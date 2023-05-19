@@ -6,7 +6,7 @@ class GgApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp( //MUST MUST
+    return MaterialApp( //MUST
     home: Scaffold(
       appBar: AppBar(
         title: Text('Dummy app'),
